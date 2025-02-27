@@ -34,11 +34,6 @@ This is a replica of the iPhone calculator built using **HTML**, **CSS**, and **
 
 ---
 
-## 🌐 Live Demo  
-[Live Demo](https://stanislav0415.github.io/iphone-calculator)  
-
----
-
 ## 🔮 Future Improvements  
 - Advanced calculator functionalities (e.g., scientific calculator mode)  
 - Enhanced responsiveness for smaller screens  
